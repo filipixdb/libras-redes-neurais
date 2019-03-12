@@ -1,0 +1,58 @@
+redes neurais nao supervisionadas
+
+a fazeres:
+
+(gerar graficos)
+http://itools.subhashbose.com/grapher/index.php
+
+
+
+---------------------------------------
+FAZER
+
+rebater instancias erradas
+
+fazer limiar diferente para horizontal e vertical (em termos de media e variancia)
+
+rodar com partes do dataset, mas com numero igual de instancias por classe
+
+fazer ART1 rodar
+
+fazer k-nearest neighbors (memory-based learning)
+
+fazer SDM rodar (memory-based learning)
+
+fazer ART1 rodar
+
+fazer valor binario (limiar = 0) pra sdm e art1
+
+(normalizar o vetor)
+
+
+
+
+-----------------------------------------------------
+
+
+(framework java)http://www.heatonresearch.com/encog
+
+
+
+(LIDA) http://ccrg.cs.memphis.edu/assets/code/doc/edu/memphis/ccrg/lida/episodicmemory/sdm/SparseDistributedMemoryImpl.html
+
+(LIDA) http://ccrg.cs.memphis.edu/tutorial/index.html
+
+
+
+https://www.google.com/search?q=memori+based+learning&oq=memori+based+learning&aqs=chrome..69i57j0l5.4266j0j7&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8
+
+(FPS)http://www.botprize.org/
+
+(Formigas)http://aichallenge.org/index.php
+
+(Unsupervised feature learning deep learning)http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
+
+http://deeplearning.net/
+
+
+http://archive.ics.uci.edu/ml/datasets/Libras+Movement
